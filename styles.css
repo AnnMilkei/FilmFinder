@@ -1,0 +1,30 @@
+* {
+    margin: 5px;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+   display: block;
+}
+
+#navigation {
+ margin-top: 30px;
+ color: white;
+ display: flex;
+}
+  
+#UlForJavascript {
+ list-style-type: none;
+ margin-top: 50px;
+ color: aliceblue;
+ display: flex;
+ flex-wrap: wrap;
+}
+  
+li {
+ width: fit-content;
+ list-style: none;
+}
+
